@@ -1,0 +1,8 @@
+C:\Users\Tecnologico\source\repos\configuracion_perfil\bin\Debug\configuracion_perfil.exe.config
+C:\Users\Tecnologico\source\repos\configuracion_perfil\bin\Debug\configuracion_perfil.exe
+C:\Users\Tecnologico\source\repos\configuracion_perfil\bin\Debug\configuracion_perfil.pdb
+C:\Users\Tecnologico\source\repos\configuracion_perfil\obj\Debug\configuracion_perfil.csproj.AssemblyReference.cache
+C:\Users\Tecnologico\source\repos\configuracion_perfil\obj\Debug\configuracion_perfil.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tecnologico\source\repos\configuracion_perfil\obj\Debug\configuracion_perfil.csproj.CoreCompileInputs.cache
+C:\Users\Tecnologico\source\repos\configuracion_perfil\obj\Debug\configuracion_perfil.exe
+C:\Users\Tecnologico\source\repos\configuracion_perfil\obj\Debug\configuracion_perfil.pdb
